@@ -1,33 +1,39 @@
-<h1>Python Network Packet Sniffer using Scapy<h1/>
+ Python Packet Sniffer
 
-This is a simple yet powerful network packet sniffer tool written in Python using the **Scapy** library. It captures live network packets and displays useful information like timestamp, source IP, destination IP, protocol type, and packet size.
-
----
-
-## ✨ Features
-
-- Captures live network packets in real-time.
-- Filters and displays only IP-based packets (TCP, UDP, ICMP, etc.).
-- Shows:
-  - 📅 Timestamp of capture
-  - 🌐 Source and Destination IP
-  - 📦 Protocol used (TCP, UDP, ICMP)
-  - 📏 Packet size in bytes
-- Easy to run from terminal or IDE
-- Lightweight and fast
+A lightweight and beginner-friendly **Python-based Packet Sniffer** using the `Scapy` library.  
+This project captures live network traffic and displays important details like source/destination IP addresses, protocols, and packet size — helping you understand how data flows across a network.
 
 ---
 
-## 🧠 Requirements
+Features
 
-- Python 3.6 or above
+-  Real-time packet capturing using `Scapy`
+- Displays:
+  - Timestamp of each packet
+  - Source IP Address
+  - Destination IP Address
+  - Protocol used (TCP, UDP, ICMP, etc.)
+  - Packet size in bytes
+-  Beginner-friendly code structure
+-  Captures and displays the **first 5 packets** for learning and analysis
+
+---
+
+##  Objectives
+
+- Understand how network traffic flows across a system
+- Learn about IP packets and different protocols
+- Gain hands-on experience with network sniffing in Python
+- Use Scapy to explore raw packet data
+
+---
+
+##  Requirements
+
+- Python 3.x
 - Scapy library
 
----
+Install Scapy using pip:
 
-## ⚙️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/python-packet-sniffer.git
-   cd python-packet-sniffer
+```bash
+pip install scapy
