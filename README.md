@@ -1,6 +1,6 @@
 # <h1>Python Packet Sniffer</h1>
 
-<h3>A lightweight and beginner-friendly **Python-based Packet Sniffer** using the `Scapy` library.<br>  
+<h3>A lightweight and beginner-friendly <i>Python-based Packet Sniffer</i> using the <i>Scapy</i> library.<br>  
 This project captures live network traffic and displays important details like source/destination IP addresses, protocols, and packet size — helping you understand how data flows across a network.</h3>
 
 ---
@@ -79,7 +79,7 @@ This tool is created for educational purposes only. Please ensure you use it onl
 ---
 
 <h1>Author</h1>
-Made with by Mumuksha Kashyap<br>
+Made with by <i>Mumuksha Kashyap</i>
 BCA Cybersecurity Student  
 
 
