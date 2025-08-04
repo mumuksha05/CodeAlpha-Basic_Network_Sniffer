@@ -1,11 +1,11 @@
- Python Packet Sniffer
+<h1>Python Packet Sniffer</h1> 
 
-A lightweight and beginner-friendly **Python-based Packet Sniffer** using the `Scapy` library.  
-This project captures live network traffic and displays important details like source/destination IP addresses, protocols, and packet size — helping you understand how data flows across a network.
+<h3>A lightweight and beginner-friendly **Python-based Packet Sniffer** using the `Scapy` library.  
+This project captures live network traffic and displays important details like source/destination IP addresses, protocols, and packet size — helping you understand how data flows across a network.</h3>
 
 ---
 
-Features
+<h2>Features</h2>
 
 -  Real-time packet capturing using `Scapy`
 - Displays:
@@ -19,7 +19,7 @@ Features
 
 ---
 
-##  Objectives
+<h2>Objectives</h2>
 
 - Understand how network traffic flows across a system
 - Learn about IP packets and different protocols
